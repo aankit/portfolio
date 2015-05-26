@@ -1,0 +1,27 @@
+a {
+    color: purple;
+}
+
+.img-responsive{
+    padding: 10px;
+}
+
+.bio {
+    padding: 10px;
+    width: 250px;
+    float: left;
+}
+
+#brand {
+  font-family: Courier;
+  font-size: 500%;
+}
+
+#nav {
+  padding-top: 25px;
+}
+
+#nav ol
+{
+    list-style-type: none;
+}
